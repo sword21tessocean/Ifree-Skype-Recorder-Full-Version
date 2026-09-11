@@ -232,3 +232,6 @@ This repository serves as the official landing page for iFree Skype Recorder. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of iFree Skype Recorder today!**
+
+---
+**Last updated:** 2026-09-11 16:55:28 UTC
